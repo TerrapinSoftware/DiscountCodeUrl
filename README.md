@@ -1,3 +1,7 @@
+## Changes
+
+Required PHP version bumped to 8.1.x
+
 # Discount Code URL Module for Magento 2
 
 This module allows discount codes to be applied to a browser session automatically via a query string. For example, with the default settings, the following will make sure the MYDISCOUNTCODE coupon is applied during checkout:
