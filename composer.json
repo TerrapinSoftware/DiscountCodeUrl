@@ -1,5 +1,5 @@
 {
-    "name": "crankycyclops/m2-module-discount-code-url",
+    "name": "TerrapinSoftware/m2-module-discount-code-url",
     "version": "1.0.4",
     "description": "Allows discount codes to be applied to a browser session automatically via a query string or URL path.",
     "require": {
